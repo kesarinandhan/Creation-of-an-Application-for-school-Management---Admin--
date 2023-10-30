@@ -1,1 +1,1 @@
-# Creation-of-an-Application-for-school-Management---Admin--
+https://trailhead.salesforce.com/users/smartbridgesupport/trailmixes/smartinternz-admin 
